@@ -2,7 +2,7 @@
 ![Senay Berhe]
 
 
-#  Twittermenti
+#  Tweeter sentiment
 
 - Sentiment Analysis of Twitter Data for Predicting Stock Market Movements
 - Matt Donnelly's Swifter
